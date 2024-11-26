@@ -1,6 +1,6 @@
-# Role-Based Access Control (RBAC) UI
+# Role-Based Access Control Adminn
 
-A modern and responsive Role-Based Access Control (RBAC) system built with React, TypeScript, and Tailwind CSS.
+A modern and responsive Role-Based Access Control system built with React-Vite, TypeScript, and Tailwind CSS.
 
 ## 🌟 Features
 
@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Atmalviya/VRV-Security-Assignment.git
+git clone https://github.com/Ankit-78/VRV-Security-RBAC-Admin.git
 cd VRV-Security-Assignment
 ```
 
