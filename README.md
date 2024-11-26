@@ -1,6 +1,6 @@
-# Role-Based Access Control Adminn
+# Role-Based Access Control Admin
 
-A modern and responsive Role-Based Access Control system built with React-Vite, TypeScript, and Tailwind CSS.
+A modern and responsive Role-Based Access Control Admin system built with React-Vite, TypeScript, and Tailwind CSS.
 
 ## 🌟 Features
 
@@ -29,15 +29,7 @@ A modern and responsive Role-Based Access Control system built with React-Vite, 
 - Responsive design for all devices
 - Clean and intuitive interface
 
-## 🚀 Technical Implementation
 
-### Frontend Stack
-- **React** with TypeScript for robust type safety
-- **React Router** for navigation
-- **Tailwind CSS** for styling
-- **React Icons** for consistent iconography
-- **React Hook Form** with Zod for form validation
-- **Axios** for API communication
 
 ### Key Components
 - `UserManagement`: Comprehensive user CRUD operations
@@ -97,61 +89,4 @@ npm install
 npm run dev
 ```
 
-The application will start running at `http://localhost:5173`
 
-
-## 📋 Project Structure
-```
-src/
-├── components/      # React components
-├── services/       # API and service functions
-├── schemas/        # Validation schemas
-├── types/          # TypeScript interfaces
-└── assets/         # Static assets
-```
-
-## 📝 Assignment Evaluation Criteria Met
-
-1. **Creativity and Design Quality**
-   - Modern, clean interface
-   - Intuitive navigation
-   - Consistent design language
-
-2. **Responsiveness**
-   - Mobile-first approach
-   - Adaptive layouts
-   - Touch-friendly interface
-
-3. **Functionality**
-   - Complete CRUD operations
-   - Role management
-   - Permission handling
-
-4. **User Experience**
-   - Smooth transitions
-   - Loading states
-   - Error handling
-   - Intuitive workflows
-
-5. **Technical Skill**
-   - TypeScript implementation
-   - Code organization
-   - Modern React practices
-   - Form validation
-
-6. **Documentation**
-   - Comprehensive README
-   - Clear code comments
-   - Type definitions
-
-7. **Security Practices**
-   - Input validation
-   - Error handling
-   - Type safety
-   - Secure API calls
-
-8. **Additional Features**
-   - Advanced filtering
-   - Sorting capabilities
-   - Search functionality
-   - Dashboard analytics
